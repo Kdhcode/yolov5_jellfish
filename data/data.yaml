@@ -1,0 +1,7 @@
+train: C:/jellyfish.v1i.yolov5pytorch/train/images
+val: C:/jellyfish.v1i.yolov5pytorch/valid/images
+test: C:/jellyfish.v1i.yolov5pytorch/test/images
+
+
+nc: 1
+names: ['jellyfish']
