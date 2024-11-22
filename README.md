@@ -63,8 +63,8 @@ Previous research has proposed various methods for jellyfish detection, but ther
 ---
 
 ## Project Video
-<div style="display: flex; justify-content: space-between; width: 100%; margin-top: 20px;">
-    <a href="https://drive.google.com/file/d/18E-5xXRYZZ5nzAA-YYjmXNJ7a-u6IUwB/view?usp=drive_link" target="_blank" style="background-color: #4CAF50; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none;">Watch Video 1</a>
-    <a href="https://drive.google.com/open?id=12jKLmn8C3fWC_U2AkMMDxTs9iM72wZn3&usp=drive_copy" target="_blank" style="background-color: #2196F3; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none;">Watch Video 2</a>
-    <a href="https://drive.google.com/open?id=1MI4fqwzlUtSfHMZNHySFKgDN5rTygjxP&usp=drive_copy" target="_blank" style="background-color: #f44336; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none;">Watch Video 3</a>
-</div>
+### Click on the links below to view each video:
+- [Watch Video 1](https://drive.google.com/file/d/18E-5xXRYZZ5nzAA-YYjmXNJ7a-u6IUwB/view?usp=drive_link)
+- [Watch Video 2](https://drive.google.com/open?id=12jKLmn8C3fWC_U2AkMMDxTs9iM72wZn3&usp=drive_copy)
+- [Watch Video 3](https://drive.google.com/open?id=1MI4fqwzlUtSfHMZNHySFKgDN5rTygjxP&usp=drive_copy)
+
